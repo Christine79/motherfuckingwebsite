@@ -1,2 +1,2 @@
 # motherfuckingwebsite
-l'exercie gébergement site + mise en ligne
+l'exercice hébergement site + mise en ligne
